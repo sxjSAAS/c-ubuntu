@@ -1,0 +1,5 @@
+/home/hku/sxj/test/c-ubuntu/out/build/GCC 11.4.0 x86_64-linux-gnu/CMakeFiles/test.dir
+/home/hku/sxj/test/c-ubuntu/out/build/GCC 11.4.0 x86_64-linux-gnu/CMakeFiles/package.dir
+/home/hku/sxj/test/c-ubuntu/out/build/GCC 11.4.0 x86_64-linux-gnu/CMakeFiles/package_source.dir
+/home/hku/sxj/test/c-ubuntu/out/build/GCC 11.4.0 x86_64-linux-gnu/CMakeFiles/edit_cache.dir
+/home/hku/sxj/test/c-ubuntu/out/build/GCC 11.4.0 x86_64-linux-gnu/CMakeFiles/rebuild_cache.dir

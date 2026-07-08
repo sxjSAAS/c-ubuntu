@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/hku/sxj/test/c-ubuntu/src/demo3/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

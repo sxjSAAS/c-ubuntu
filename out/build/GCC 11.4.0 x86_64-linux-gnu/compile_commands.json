@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/hku/sxj/test/c-ubuntu/out/build/GCC 11.4.0 x86_64-linux-gnu",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/test.dir/main.cpp.o -c /home/hku/sxj/test/c-ubuntu/main.cpp",
+  "file": "/home/hku/sxj/test/c-ubuntu/main.cpp",
+  "output": "CMakeFiles/test.dir/main.cpp.o"
+}
+]

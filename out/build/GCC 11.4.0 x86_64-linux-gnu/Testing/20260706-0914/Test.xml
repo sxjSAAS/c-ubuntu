@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20260706-0914-Experimental"
+	Name="hku-OptiPlex-7080"
+	Generator="ctest-4.3.4"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="hku-OptiPlex-7080"
+	OSRelease="6.8.0-124-generic"
+	OSVersion="#124~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue May 26 21:05:19 UTC "
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="165"
+	ModelName="Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz"
+	ProcessorCacheSize="16384"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15703"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4599.625977"
+	>
+	<Testing>
+		<StartDateTime>Jul 08 10:37 HKT</StartDateTime>
+		<StartTestTime>1783478271</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jul 08 10:37 HKT</EndDateTime>
+		<EndTestTime>1783478271</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
